@@ -1,0 +1,22 @@
+.footer__list-item {
+ margin-right: 18px;
+ transition: ease-in-out .335s;
+}
+.footer__list-item:last-child {
+ margin-right: 0;
+}
+
+.footer__list-item:hover {
+ opacity: .8;
+}
+
+@media (max-width: 425px) {
+  .footer__list-item {
+    margin-right: 0;
+    margin-bottom: 32px;
+ }
+  .footer__list-item:last-child {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}

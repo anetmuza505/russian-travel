@@ -1,7 +1,7 @@
 .cover__overlay {
     display: flex;
     position: relative;
-    padding-top: 62.6%;
+    /* padding-top: 62.6%; */
     max-width: 100%;
     background-image: url('../../../Images/cover-trains.jpg');
     background-position: center;

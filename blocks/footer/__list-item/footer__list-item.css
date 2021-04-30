@@ -11,13 +11,12 @@
     opacity: .8;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 460px) {
     .footer__list-item {
         margin-right: 0;
         margin-bottom: 32px;
     }
     .footer__list-item:last-child {
-        margin-right: 0;
         margin-bottom: 0;
     }
 }

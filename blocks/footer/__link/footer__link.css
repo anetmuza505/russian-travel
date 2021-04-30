@@ -7,7 +7,7 @@
     transition: .335s ease-in-out;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 460px) {
     .footer__link {
         font-size: 24px;
         line-height: 24px;

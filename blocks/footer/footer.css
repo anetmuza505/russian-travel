@@ -6,21 +6,15 @@
     margin: 0 auto 24px;
 }
 
-@media screen and (max-width: 1024px) {
-    .footer {
-        max-width: calc(100% - 96px);
-    }
-}
-
 @media screen and (max-width: 768px) {
     .footer {
         max-width: calc(100% - 48px);
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 460px) {
     .footer {
-        max-width: calc(100% - 32px);
         flex-direction: column;
+        max-width: calc(100% - 32px);
     }
 }
